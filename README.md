@@ -47,6 +47,7 @@ Coming later, when finished
 ### What I learned
 
 I learned to work with a mix of flexbox and grid and when to use which one.
+I drew the [design of the components](https://www.figma.com/file/tjMbfBgU9lMwD81tW4AfCd/Untitled?node-id=38%3A290&t=RjEbxYcoJ5UVa3tS-3) in Figma to figure out what to put where
 
 ### Continued development
 
